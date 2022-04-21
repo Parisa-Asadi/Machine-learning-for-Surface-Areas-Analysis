@@ -3,6 +3,7 @@
 """
 Created on Mon Apr 12 10:50:13 2021
 @author: pza0029
+Note: first download "simple_multi_unet_model_Original" file and have it on the directory.
 
 """
 import os
